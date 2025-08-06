@@ -8,11 +8,11 @@
 ## 🔗 Connect With Me
 - 💼 http://www.linkedin.com/in/soundara-pant
 - 📧 mspandiyan3337@gmail.com
-- 📝 https://soundara-portfolio.netlify.app/
+- 📝 (https://soundar-portfolio-sde.onrender.com/)
 
 ## 🛠️ Technologies & Tools
-- Programming: Python, JavaScript, Java, etc.
-- Frameworks: React, Node.js, Django, etc.
+- Programming: Python, Kotlin, Java, etc.
+- Frameworks: React, ML, Django, Tensorflow etc.
 - DevOps: Docker, Kubernetes, CI/CD.
 
 ## 🌱 Current Learning
