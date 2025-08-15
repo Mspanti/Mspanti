@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Soundara+Pandiyan;AI%2FML+Engineer+%7C+Privacy-First+Dev;Python+%7C+Selenium+%7C+Edge+WebDriver;AgriTude+Hackathon+Lead+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Soundara+Pandiyan;AI%2FML+Engineer+%7C+Privacy-First+Dev;Python+%7C+Selenium+%7C+Edge+WebDriver;AgriTude+Hackathon+Lead+🚀" alt="Typing SVG" />
+  </a>
 </p>
+
 
 
 ---
