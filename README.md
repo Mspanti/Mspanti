@@ -113,6 +113,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mspanti&label=Profile%20views&color=0e75b6&style=flat" alt="Mspanti" />
-  ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Mspanti)
+ 
 
 </p>
