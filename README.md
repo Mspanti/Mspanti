@@ -1,5 +1,6 @@
 <h1 align="center">வணக்கம் 🙏 I'm Soundara Pandiyan</h1>
-<h3 align="center">🚀 AI/ML Engineer | Privacy-First Dev | Hackathon Warrior</h3>
+<h3 align="center">🚀 AI/ML Engineer | Privacy-First Dev | Mobile App Developer </h3>
+<h3 align="center"> Am Not {Programmer} Computer Science == Hunam Life  == Moral of Life
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=வணக்கம்+நான்+சௌந்தரா+பாண்டியன்;AI%2FML+Engineer+%7C+Privacy-First+Dev;AgriTude+Hackathon+Lead+🚀;Python+%7C+Selenium+%7C+Firebase+%7C+Docker+%7C+Postman" alt="Typing SVG" />
