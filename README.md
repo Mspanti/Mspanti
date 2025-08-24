@@ -12,14 +12,6 @@
 
 ---
 
-## 🏆 Hackathon Spotlight
-
-| Hackathon | Project | Role | Tech Stack |
-|-----------|---------|------|------------|
-| Capital One Launchpad | **AgriTude** – Smart Agri Dashboard | Team Lead | Python, Selenium, Firebase, ML |
-
----
-
 ## 🎯 Career Goals
 
 - 🔍 AI/ML internships & junior SDE roles  
