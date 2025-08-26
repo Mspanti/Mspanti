@@ -66,18 +66,7 @@
 
 ---
 
-## 💼 Internships
 
-- 🧩 **Bluestock Fintech**: Jetpack Compose UI, Firebase Auth, RecyclerView optimization  
-- 🔧 **Fantasy Solution**: Kotlin MVVM, FCM push notifications, Firebase Analytics
-
----
-
-## 🎓 Education & Achievements
-
-- 🎓 B.Tech IT – Anna University, Trichy | CGPA: 7.8  
-- 🧠 550+ problems solved on LeetCode & HackerRank  
-- 📜 Certifications: Prompt Engineering (Guvi), Spring Boot API (HackerRank), Agile (Coursera), SQL (Infosys)
 
 ---
 
