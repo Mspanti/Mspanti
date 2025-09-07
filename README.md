@@ -1,4 +1,4 @@
-<h1 align="center">வணக்கம் 🙏 I'm Soundara Pandiyan</h1>
+<h1 align="center"> I'm Soundara Pandiyan</h1>
 <h3 align="center">🚀 AI/ML Engineer | Privacy-First Dev | Mobile App Developer </h3>
 <h3 align="center"> Am Not {Programmer} Computer Science == Human Life  == Moral of Life  </h3>
 
